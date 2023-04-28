@@ -1,2 +1,6 @@
-# OOP_Edistynyt-SAMK-Loppuharkat
- SAMK:issa tehtyjä Olio-ohjelmointi ja edistynyt C# -ohjelmointi opintojaksojen loppuharkkoja.
+# OOP ja Edistynyt C# ohjelmointi -SAMK
+
+SAMK:issa tehtyjä Olio-ohjelmointi ja edistynyt C# -ohjelmointi opintojaksojen loppuharkkoja.
+
+- Visual Studio
+- .sln -tiedostot suorittamiseen
