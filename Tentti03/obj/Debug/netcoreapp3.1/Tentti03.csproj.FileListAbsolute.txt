@@ -1,0 +1,28 @@
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.exe
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.deps.json
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.runtimeconfig.json
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.runtimeconfig.dev.json
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.dll
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.pdb
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.AssemblyInfoInputs.cache
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.AssemblyInfo.cs
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.dll
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.pdb
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.genruntimeconfig.cache
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.csproj.AssemblyReference.cache
+C:\Users\Aleksi\Documents\Visual studio projektit\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.exe
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.deps.json
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.runtimeconfig.json
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.runtimeconfig.dev.json
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.dll
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\bin\Debug\netcoreapp3.1\Tentti03.pdb
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.csproj.AssemblyReference.cache
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.AssemblyInfoInputs.cache
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.AssemblyInfo.cs
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.dll
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.pdb
+C:\Users\Aleksi\Documents\OOP ja Edistynyt C# SAMK Loppuharkat\Tentti03\obj\Debug\netcoreapp3.1\Tentti03.genruntimeconfig.cache

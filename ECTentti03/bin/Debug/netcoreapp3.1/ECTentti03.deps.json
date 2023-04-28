@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ECTentti03/1.0.0": {
+        "runtime": {
+          "ECTentti03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECTentti03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
